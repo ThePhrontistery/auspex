@@ -2,7 +2,6 @@
 
  Playground to interrogate local data sources with an LLM 
 
-![Screenshot Dodona with VSCode](Screenshot.png)
 ## Installation
 
 TODO
